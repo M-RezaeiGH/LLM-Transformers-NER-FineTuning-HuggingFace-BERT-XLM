@@ -1,0 +1,7 @@
+transformers==4.47.1
+torch==2.5.1 
+fsspec==2024.12.0
+datasets==2.19.1 
+seqeval
+numpy==1.25.2
+pandas==1.5.3
