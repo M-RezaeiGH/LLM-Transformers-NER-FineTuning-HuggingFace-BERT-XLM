@@ -21,6 +21,12 @@
     </a>
 </p>
 
+----
+## 👨‍💻 Developer
+
+**Mohammad Reza Rezaei**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/m-rezaei/)
+
 ---
 
 ## 🌟 Model Overview
